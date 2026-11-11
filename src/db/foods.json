@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "foodName": "cola",
+    "foodImg": "cola.jpg"
+  },
+  {
+    "id": 2,
+    "foodName": "fanta",
+    "foodImg": "fanta.jpg"
+  },
+  {
+    "id": 3,
+    "foodName": "burger",
+    "foodImg": "burger.jpg"
+  },
+  {
+    "id": 4,
+    "foodName": "jo'ja",
+    "foodImg": "joja.jpg"
+  },
+  {
+    "id": 5,
+    "foodName": "pepsi",
+    "foodImg": "pepsi.jpg"
+  },
+  {
+    "id": 6,
+    "foodName": "hotdog",
+    "foodImg": "hotdog.jpg"
+  },
+  {
+    "id":7,
+    "foodName":"combo",
+    "foodImg":"combo.jpg"
+  }
+]
